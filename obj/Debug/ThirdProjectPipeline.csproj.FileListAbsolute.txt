@@ -1,0 +1,8 @@
+C:\MVC-Jenkins-Programs\ThirdProjectPipeline\bin\Debug\ThirdProjectPipeline.exe.config
+C:\MVC-Jenkins-Programs\ThirdProjectPipeline\bin\Debug\ThirdProjectPipeline.exe
+C:\MVC-Jenkins-Programs\ThirdProjectPipeline\bin\Debug\ThirdProjectPipeline.pdb
+C:\MVC-Jenkins-Programs\ThirdProjectPipeline\obj\Debug\ThirdProjectPipeline.csproj.AssemblyReference.cache
+C:\MVC-Jenkins-Programs\ThirdProjectPipeline\obj\Debug\ThirdProjectPipeline.csproj.SuggestedBindingRedirects.cache
+C:\MVC-Jenkins-Programs\ThirdProjectPipeline\obj\Debug\ThirdProjectPipeline.csproj.CoreCompileInputs.cache
+C:\MVC-Jenkins-Programs\ThirdProjectPipeline\obj\Debug\ThirdProjectPipeline.exe
+C:\MVC-Jenkins-Programs\ThirdProjectPipeline\obj\Debug\ThirdProjectPipeline.pdb
